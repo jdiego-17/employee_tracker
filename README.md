@@ -1,4 +1,4 @@
-# assgment 
+# Employee Tracker
 
   ## Table Of Contents
   - [Description](#Description)
@@ -13,10 +13,10 @@
 
 
   ## Description 
-  sdasd
+  This app main focus is to create, update, add, remove to current and future employees. 
 
   ## Installation
-  sad
+  run npm index.js
 
   ## Technology Used
   HTML,CSS,JavaScript
